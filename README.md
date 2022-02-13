@@ -35,6 +35,7 @@ hacking-tool works on
 
 -------------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 ## Legal disclaimer:
 
 Usage of hacking-tool for attacking targets without prior mutual consent is illegal.
@@ -42,6 +43,9 @@ It's the end user's responsibility to obey all applicable local, state and feder
 Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
 ### How to Install ?
+=======
+### How to Install
+>>>>>>> parent of bf64935 (Update README.md)
 
 Open the terminal and type following commands.
 
@@ -57,9 +61,9 @@ Open the terminal and type following commands.
 
 * `bash tools.sh`
 
-* ~~sh tools.sh~~ not work 
+* ~~sh tools.sh~~
 
-* ~~./tools.sh~~ not work
+* ~~./tools.sh~~
 
 ## preview
 ![](https://i.pinimg.com/originals/db/4f/04/db4f045299041f244c2b5a33580ff8b8.gif)
